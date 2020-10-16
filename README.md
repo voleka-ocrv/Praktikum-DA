@@ -1,32 +1,32 @@
 # Praktikum-DA
 Учебные проекты, выполненные в рамках курса Аналитика данных от Практикума
 
-## Изменение шрифта в приложении ([AB-test](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/AB-test))
+- ### Изменение шрифта в приложении ([AB-test](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/AB-test))
 #### Проверка гипотезы о том, что изменение цвета шрифта в приложении оказала влияние на поведение пользовтелей.
 (проверка гипотез, множественное сравнение, SciPy)
 
-## Рынок заведений общественного питания Москвы ([Restaurants Market Research](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Restaurants%20Market%20Research))
+- ### Рынок заведений общественного питания Москвы ([Restaurants Market Research](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Restaurants%20Market%20Research))
 (API Яндекс.Карты)
 
-## Приоретизация гипотез ([Hypothesis](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Hypothesis))
+- ### Приоретизация гипотез ([Hypothesis](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Hypothesis))
 (iCE, RICE, проверка гипотез)
 
-## Аналитика в Афише ([Afisha](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Afisha))
+- ### Аналитика в Афише ([Afisha](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Afisha))
 (LTV, ROMI)
 
-## Аналитика в авиакомпании ([Flights](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Flights))
+- ### Аналитика в авиакомпании ([Flights](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Flights))
 (SQL)
 
-## Исследование компьютерных игр ([Computer Games](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Computer%20games))
+- ### Исследование компьютерных игр ([Computer Games](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Computer%20games))
 (график выпуска и продажи игр по годам, жанрам, платформам)
 
-## Определение перспективного тарифа для телеком компании ([Telecom](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Telecom))
+- ### Определение перспективного тарифа для телеком компании ([Telecom](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Telecom))
 (проверка гипотез)
 
-## Исследование объявлений о продаже квартир ([Retail](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Retail))
+- ### Исследование объявлений о продаже квартир ([Retail](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Retail))
 (корреляции между характеристиками квартиры)
 
-## Исследование надёжности заёмщиков ([Scoring](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Scoring))
+- ### Исследование надёжности заёмщиков ([Scoring](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Scoring))
 (лемматизация, Mysterm.lemmatize)
 
 
