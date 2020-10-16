@@ -3,7 +3,7 @@
 
 - ### Изменение шрифта в приложении ([AB-test](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/AB-test))
 #### Проверка гипотезы о том, что изменение цвета шрифта в приложении оказало влияние на поведение пользовтелей.
-(проверка гипотез, множественное сравнение, SciPy)
+(проверка гипотез, множественное сравнение, SciPy, Plotly)
 
 - ### Рынок заведений общественного питания Москвы ([Restaurants Market Research](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Restaurants%20Market%20Research))
 (API Яндекс.Карты)
