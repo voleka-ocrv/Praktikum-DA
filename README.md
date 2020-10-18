@@ -1,5 +1,7 @@
 # Praktikum-DA
 Учебные проекты, выполненные в рамках курса Аналитика данных от Практикума
+- ### Дашборд ([Tableau](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/Tableau))
+(sqlalchemy)
 
 - ### Изменение шрифта в приложении влияет нна поведение пользователейе ([AB-test](https://github.com/voleka-ocrv/Praktikum-DA/tree/main/AB-test))
 #### Проверка гипотезы о том, что изменение цвета шрифта в приложении оказало влияние на поведение пользовтелей.
