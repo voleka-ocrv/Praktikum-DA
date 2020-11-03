@@ -32,7 +32,15 @@
 (лемматизация, Mysterm.lemmatize)
 
 
+#|
+||a|b||
+|#
 
+<table>
+  <tr>
+    <td>f</td>
+  </tr>
+</table>
 
 
 
